@@ -356,7 +356,8 @@
 4. 根据统计数据，目前每个感染者大约能够继续感染 3～5 个人。（这就是所谓的 R0 值，R naught）。
 5. 针对新型冠状病毒，目前尚无有效治疗的药物与疫苗。
 6. 病毒在传播过程中会不断变异。
-7. 与任何重大病毒性传染病疫情一样，隔离是唯一可能有效的抗争方案。
+7. 病毒在干燥的空气中大约能够存活 48 个小时，在空气中 2 小时之后活性明显下降<sup>[3]</sup>。
+8. 与任何重大病毒性传染病疫情一样，隔离是唯一可能有效的抗争方案。
 
 
 现在你可以通过以下链接查看疫情数据地图：
@@ -731,5 +732,6 @@
 
 1. [I would, but my DAMN MIND won't let me!: a teen's guide to controlling their thoughts and feelings](https://www.amazon.com/dp/099762440X/), by Jacqui Letran (2016)
 1. [Deep Survival: Who Lives, Who Dies, and Why](https://www.amazon.com/dp/B0028Z4LUU), by Laurence Gonzales (2004)
+1. 李兰娟：[新型冠状病毒在空气中存活时间可达48小时](https://weibo.com/1618051664/Isvyws8Zb?ref=home&rid=0_0_8_3069137192539465079_6_0_0&type=comment)
 
 
