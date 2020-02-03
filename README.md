@@ -414,6 +414,8 @@
 
 
 > [新型冠状病毒感染的肺炎确诊患者同行程查询工具](https://h5.peopleapp.com/txcx/index.html)
+>
+> [另外一个查询工具](https://h5.133.cn/gtgjwap/h5/virusTrip/search)
 
 
 **一旦发现自己是密切接触者（无论是被通知，还是自己经过查询获知），唯一合理的决策只有 “自我隔离”。**
