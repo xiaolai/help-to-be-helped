@@ -230,18 +230,18 @@
 以下是一些与疫情有关的电影电视剧，随便挑几个看看：
 
 
-> * 恐怖地带 (1995)
-> * 惊变28天 (2002)
-> * 天外来菌 (2008)
-> * 嗜血破晓 (2009)
-> * 传染病 (2011)
-> * 流感 (2013)
-> * 末日浩劫 (2013)
-> * 复生 (2013)
-> * 平常的心 (2014)
-> * 灭绝 (2015)
-> * 隔离死城 (2016)
-> * 血疫（2019）
+> * [恐怖地带](https://movie.douban.com/subject/1301419/) (1995)
+> * [惊变28天](https://movie.douban.com/subject/1306421/) (2002)
+> * [天外来菌](https://movie.douban.com/subject/2133368/) (2008)
+> * [嗜血破晓](https://movie.douban.com/subject/1972732/) (2009)
+> * [传染病](https://movie.douban.com/subject/4301043/) (2011)
+> * [流感](https://movie.douban.com/subject/10432911/) (2013)
+> * [末日浩劫](https://movie.douban.com/subject/19976260/) (2013)
+> * [复生](https://movie.douban.com/subject/21973146/) (2013)
+> * [平常的心](https://movie.douban.com/subject/6776051/) (2014)
+> * [灭绝](https://movie.douban.com/subject/25884436/) (2015)
+> * [隔离死城](https://movie.douban.com/subject/26384948/) (2016)
+> * [血疫](https://movie.douban.com/subject/26581181/)（2019）
 
 
 
