@@ -737,3 +737,6 @@
 1. 李兰娟：[新型冠状病毒在空气中存活时间可达48小时](https://weibo.com/1618051664/Isvyws8Zb?ref=home&rid=0_0_8_3069137192539465079_6_0_0&type=comment)
 
 
+-----
+
+![](images/help_to_be_helped_1000.png)
